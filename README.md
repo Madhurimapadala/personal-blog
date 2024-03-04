@@ -1,1 +1,1 @@
-https://madhurimapadala.github.io/personal-blog/
+personal-blog
